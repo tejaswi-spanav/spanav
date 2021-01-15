@@ -14,7 +14,7 @@ import Blogs from './components/Blogs';
 import Home from './components/Home';
 import Contact from './components/Contact';
 import About from './components/About';
-
+import Test from './components/Test';
 // function App() {
 //   return (
 //     <div className="App">
@@ -38,6 +38,7 @@ const App = () => (
     
   
     <Navigbar />
+  
   
     <Switch>
         <Route exact path='/' component={Home}></Route>

@@ -18,7 +18,7 @@ const Navigbar = () => (
                 backgroundColor: '#F5F5F5',color:'00000080', fontSize:'15px',fontWeight:'bold',height:''
             
               }} >
-                <LinkContainer to="/"><Navbar.Brand><img style={{height:'50px'}}src="logo.png"></img></Navbar.Brand></LinkContainer>
+                <LinkContainer to="/"><Navbar.Brand><img style={{height:'50px'}}src="https://tejaswi-spanav.github.io/spanav/logo.png"></img></Navbar.Brand></LinkContainer>
   
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">

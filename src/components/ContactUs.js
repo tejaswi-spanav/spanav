@@ -27,7 +27,7 @@ function ContactUs(){
                   <Col></Col>
                  
                   <Col>
-                  <img style={{height:'50px'}} src="spanv_white.png"></img>
+                  <img style={{height:'50px'}} src="https://tejaswi-spanav.github.io/spanav/spanv_white.png"></img>
                   <br />
                  <a href="" style={{color:'white',textDecoration:'none'}}>Home</a>
                  <br />

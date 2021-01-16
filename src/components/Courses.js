@@ -20,7 +20,7 @@ const Courses = () => (
     
     <div style={{padding:'10px'}}>
    {/* <span> <img src="offer.png" style={{height:'50px',width:'30px',}}></img> </span> */}
-        <Card.Img variant="top" src="course1.jpg" style={{height:'209',width:'111'}}/>
+        <Card.Img variant="top" src="https://tejaswi-spanav.github.io/spanav/course1.jpg" style={{height:'209',width:'111'}}/>
         </div>        
 
 <Card.Body>
@@ -36,7 +36,7 @@ A start up manual
     
     <div style={{padding:'10px'}}>
    {/* <span> <img src="offer.png" style={{height:'50px',width:'30px',}}></img> </span> */}
-        <Card.Img variant="top" src="course2.png" style={{height:'209',width:'111'}}/>
+        <Card.Img variant="top" src="https://tejaswi-spanav.github.io/spanav/course2.png" style={{height:'209',width:'111'}}/>
         </div>        
 
 <Card.Body>

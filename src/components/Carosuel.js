@@ -12,7 +12,7 @@ function Carosuel(){
        
           <img
             className="d-block w-100"
-            src="SLIDE1.jpg "
+            src="https://tejaswi-spanav.github.io/spanav/SLIDE1.jpg "
             alt="First slide"
           />
           <Carousel.Caption>

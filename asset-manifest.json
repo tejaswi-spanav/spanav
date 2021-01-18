@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/spanav/static/css/main.92fa7009.chunk.css",
-    "main.js": "/spanav/static/js/main.9bbfccee.chunk.js",
-    "main.js.map": "/spanav/static/js/main.9bbfccee.chunk.js.map",
+    "main.js": "/spanav/static/js/main.d08fba77.chunk.js",
+    "main.js.map": "/spanav/static/js/main.d08fba77.chunk.js.map",
     "runtime-main.js": "/spanav/static/js/runtime-main.72069216.js",
     "runtime-main.js.map": "/spanav/static/js/runtime-main.72069216.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/spanav/static/css/2.20aa2d7b.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.95484dd2.chunk.js",
     "static/css/main.92fa7009.chunk.css",
-    "static/js/main.9bbfccee.chunk.js"
+    "static/js/main.d08fba77.chunk.js"
   ]
 }

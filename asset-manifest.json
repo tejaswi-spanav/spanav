@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/spanav/static/css/main.92fa7009.chunk.css",
-    "main.js": "/spanav/static/js/main.d2287913.chunk.js",
-    "main.js.map": "/spanav/static/js/main.d2287913.chunk.js.map",
+    "main.js": "/spanav/static/js/main.9bbfccee.chunk.js",
+    "main.js.map": "/spanav/static/js/main.9bbfccee.chunk.js.map",
     "runtime-main.js": "/spanav/static/js/runtime-main.72069216.js",
     "runtime-main.js.map": "/spanav/static/js/runtime-main.72069216.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/spanav/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.7663be05.chunk.js": "/spanav/static/js/2.7663be05.chunk.js",
-    "static/js/2.7663be05.chunk.js.map": "/spanav/static/js/2.7663be05.chunk.js.map",
+    "static/js/2.95484dd2.chunk.js": "/spanav/static/js/2.95484dd2.chunk.js",
+    "static/js/2.95484dd2.chunk.js.map": "/spanav/static/js/2.95484dd2.chunk.js.map",
     "static/js/3.38b36004.chunk.js": "/spanav/static/js/3.38b36004.chunk.js",
     "static/js/3.38b36004.chunk.js.map": "/spanav/static/js/3.38b36004.chunk.js.map",
     "index.html": "/spanav/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/spanav/static/css/2.20aa2d7b.chunk.css.map",
     "static/css/main.92fa7009.chunk.css.map": "/spanav/static/css/main.92fa7009.chunk.css.map",
-    "static/js/2.7663be05.chunk.js.LICENSE.txt": "/spanav/static/js/2.7663be05.chunk.js.LICENSE.txt",
+    "static/js/2.95484dd2.chunk.js.LICENSE.txt": "/spanav/static/js/2.95484dd2.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/spanav/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.72069216.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.7663be05.chunk.js",
+    "static/js/2.95484dd2.chunk.js",
     "static/css/main.92fa7009.chunk.css",
-    "static/js/main.d2287913.chunk.js"
+    "static/js/main.9bbfccee.chunk.js"
   ]
 }
